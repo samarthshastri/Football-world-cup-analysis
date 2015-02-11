@@ -2,6 +2,7 @@ Football-world-cup-analysis
 ===========================
 
 Project for obtaining interesting facts from world cup and prediction of world cup winners
+
 Please Open the Readme.docx to know the details of the project
 
 Software used: Oracle 11g, SQL developer
